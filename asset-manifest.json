@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SparkText/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/SparkText/static/js/main.f776d9dd.chunk.js",
+    "main.js.map": "/SparkText/static/js/main.f776d9dd.chunk.js.map",
+    "runtime-main.js": "/SparkText/static/js/runtime-main.5ad59b43.js",
+    "runtime-main.js.map": "/SparkText/static/js/runtime-main.5ad59b43.js.map",
+    "static/js/2.0fbaac63.chunk.js": "/SparkText/static/js/2.0fbaac63.chunk.js",
+    "static/js/2.0fbaac63.chunk.js.map": "/SparkText/static/js/2.0fbaac63.chunk.js.map",
+    "static/js/3.04230e5e.chunk.js": "/SparkText/static/js/3.04230e5e.chunk.js",
+    "static/js/3.04230e5e.chunk.js.map": "/SparkText/static/js/3.04230e5e.chunk.js.map",
+    "index.html": "/SparkText/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/SparkText/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.0fbaac63.chunk.js.LICENSE.txt": "/SparkText/static/js/2.0fbaac63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ad59b43.js",
+    "static/js/2.0fbaac63.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.f776d9dd.chunk.js"
+  ]
+}
